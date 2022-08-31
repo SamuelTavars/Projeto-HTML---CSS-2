@@ -23,11 +23,12 @@ body{
 
 
 .container{
-    width: 510px;
+    width: 51%;
     height: 100%;
     margin: auto;   
 }
 .titulo1{
+    font-size: 2,5vw;
     text-align: center;
     color: #111;
 }
@@ -55,7 +56,7 @@ body{
 }
 
 .content{
-    width: 400px;
+    width: 75%;
     margin: auto;
     overflow: hidden;
 }
@@ -92,6 +93,9 @@ figure{
     margin-top: 50px;
     background-color: #333;
 }
+
+
+ 
 
 
 
